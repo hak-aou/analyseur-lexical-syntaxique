@@ -1,0 +1,11 @@
+int main(void){
+    int b = 283 / 21 % 32 * 12 - 2 ;
+
+    if(2 || b > 1){
+        return 1;
+    }
+
+    if             (2 !=== 3) {
+        return 'a';
+    }
+}

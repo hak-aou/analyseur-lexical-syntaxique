@@ -1,0 +1,10 @@
+int main(void) {
+    int res;
+    int a = 50;
+
+    while(a > 0){
+        a--;
+    }
+    int a =; // Egal a rien
+
+}

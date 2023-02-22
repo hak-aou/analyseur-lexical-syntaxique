@@ -1,0 +1,14 @@
+char main(void)
+
+
+{
+
+    char a;
+
+    a = '\tNom : Je m\'appelle personne\n';
+
+    return a;
+
+
+
+}

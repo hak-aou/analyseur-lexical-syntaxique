@@ -1,0 +1,8 @@
+int main(void){
+
+    // Virgule sans IDENT a la fin
+    int a,b,d,e,f,    ;
+
+    a =2;
+
+}

@@ -1,0 +1,7 @@
+int main(void){
+
+    i/*      Variable */nt a = 2;
+
+
+    return a;
+}

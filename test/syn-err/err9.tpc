@@ -1,0 +1,7 @@
+int main(void) {
+    int res;
+    int a = 50;
+
+    res+=222222;
+    res /= 2;
+}

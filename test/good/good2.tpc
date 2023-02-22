@@ -1,0 +1,16 @@
+char comparer(char a, char b){
+    if(a == b){
+        return 1;
+    }
+    return 0;
+}
+
+int main(void){
+
+    char a = 'z', b = 'a';
+    int res = comparer(a, b);
+    
+    printf(res);
+
+    return 0;
+}

@@ -1,0 +1,9 @@
+char nom(char nomPersonne){
+    return nomPersonne;
+}
+
+int main(){
+    char name;
+    name = 'Nomdequelqun';
+    return nom(name);
+}

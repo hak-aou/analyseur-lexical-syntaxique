@@ -1,0 +1,43 @@
+(0 = Pas erreur syntaxique)
+(1 = Contient une erreur syntaxique)
+
+
+Fichiers teste censé être bon : 
+test/good/good0.tpc - Résultat : 0
+test/good/good1.tpc - Résultat : 0
+test/good/good2.tpc - Résultat : 0
+test/good/good3.tpc - Résultat : 0
+test/good/good4.tpc - Résultat : 0
+test/good/good5.tpc - Résultat : 0
+test/good/good6.tpc - Résultat : 0
+test/good/good7.tpc - Résultat : 0
+test/good/good8.tpc - Résultat : 0
+test/good/good9.tpc - Résultat : 0
+
+Fichiers teste censé contenir une erreur : 
+Error l.2 col.9 : syntax error
+test/syn-err/err0.tpc - Résultat : 1
+Error l.1 col.9 : syntax error
+test/syn-err/err1.tpc - Résultat : 1
+Error l.3 col.9 : syntax error
+test/syn-err/err10.tpc - Résultat : 1
+Error l.3 col.6 : syntax error
+test/syn-err/err11.tpc - Résultat : 1
+Error l.4 col.23 : syntax error
+test/syn-err/err12.tpc - Résultat : 1
+Error l.5 col.10 : syntax error
+test/syn-err/err2.tpc - Résultat : 1
+Error l.7 col.7 : syntax error
+test/syn-err/err3.tpc - Résultat : 1
+Error l.8 col.26 : syntax error
+test/syn-err/err4.tpc - Résultat : 1
+Error l.8 col.9 : syntax error
+test/syn-err/err5.tpc - Résultat : 1
+Error l.1 col.2 : syntax error
+test/syn-err/err6.tpc - Résultat : 1
+Error l.6 col.10 : syntax error
+test/syn-err/err7.tpc - Résultat : 1
+Error l.2 col.14 : syntax error
+test/syn-err/err8.tpc - Résultat : 1
+Error l.5 col.8 : syntax error
+test/syn-err/err9.tpc - Résultat : 1

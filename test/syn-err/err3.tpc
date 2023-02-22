@@ -1,0 +1,9 @@
+int main(void){
+    char name;
+    int a , b;
+
+    a = 3;
+    /* peut pas initiliser apres une déclaration */
+    int a, b;
+    return name;
+}

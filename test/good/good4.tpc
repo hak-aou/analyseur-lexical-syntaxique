@@ -1,0 +1,18 @@
+int main(void){
+    // On initilise sans déclarer
+    int a;
+    int b, c, d = 3, e;
+    int e, f;
+
+    // On déclare
+    a = 50;;;;
+    b = 3;
+    ;
+
+    while(a > 0){
+        a = a - 1;
+        ; // Rien aussi
+    }
+
+    return a;
+}
