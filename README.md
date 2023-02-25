@@ -10,9 +10,12 @@
 
 ## Présentation
 Le but de ce projet est de construire un analyseur lexical (flex) et un analyseur syntaxique (bison) en respectant certaines règles de grammaire afin de vérifier si un langage de programmation contient des erreurs de syntaxe. Le langage en question est dérivé du langage C qui se nomme TPC.
+Le but de ce projet est de pouvoir compiler notre propre langage de programmation.
 
-## Analyseur lexical (flex)
+## Analyseur lexical (Flex) 
+L'analyseur lexical récupère les lexème d'un code pour 
 
-## Analyseur syntaxique (bison)
+## Analyseur syntaxique (Bison)
 
 ## Arbre abstrait
+
